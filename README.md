@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que faz o controle de habitos, assim você poderá registrar os que fez no dia.
 
+- [visite o projeto online](https://github.com/fFernanda-gomes/NLW-Habits)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/BwFbb4BRPVCVbMST1pg5AC/Habits-(e)-(Community)?node-id=75%3A128). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
